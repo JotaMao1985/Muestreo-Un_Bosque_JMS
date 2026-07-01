@@ -1,9 +1,9 @@
 # Fundamentos del Muestreo Estadístico · Universidad El Bosque
 
-Material de estudio autónomo e interactivo sobre **muestreo estadístico**, basado en
-*Sampling: Design and Analysis* de **Sharon L. Lohr**. Cada capítulo es una página HTML
-independiente con navegación por módulos, fórmulas renderizadas con KaTeX, tablas, ejemplos
-resueltos y gráficos interactivos (Chart.js).
+Curso interactivo de muestreo estadístico basado en *Sampling: Design and Analysis* de
+**Sharon L. Lohr**: cuatro capítulos —de los fundamentos al muestreo estratificado— con
+teoría, fórmulas, ejemplos resueltos y gráficos. Cada capítulo es una página HTML
+independiente con navegación por módulos, fórmulas KaTeX, tablas y gráficos interactivos (Chart.js).
 
 🌐 **Sitio web:** https://jotamao1985.github.io/Muestreo-Un_Bosque_JMS/
 
